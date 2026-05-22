@@ -1,4 +1,3 @@
-# SOLVED: api + db for running tests in CI
 services:
   db:
     image: postgres:16
